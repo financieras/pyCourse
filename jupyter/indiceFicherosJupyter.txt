@@ -1,0 +1,51 @@
+005 Hola mundo
+010 Operaciones aritméticas
+020 Cadenas (Strings)
+030 
+040 
+050 
+060 
+070 
+080 
+090 
+100 Funciones internas
+110 String como iterable
+120 String: métodos
+130 Reto: Hora a la que poner la alarma
+140 Listas [1]
+150 Listas [2] Slicing Lists
+160 Listas [3]
+170 Listas [4]
+180 Tuplas [1]
+190 Tuplas [2]
+200 Diccionarios [1]
+210 Diccionarios [2]
+220 Diccionarios [3]
+230 Conjuntos [1]
+240 Conjuntos [2]
+250 Operadores de comparación
+260 Estructura condicional: if
+270 Estructura condicional: if ... else
+280 Estructura condicional: if ... elif
+290 Operadores lógicos: and, or, not
+300 Tabla de verdad
+310 Operadores de identidad: is, is not
+320 Bucle for
+330 Bucles for anidados
+340 Operadores de asignación
+350 Bucle while [1]
+360 Bucle while [2]
+370 Listas con estructuras [1]
+380 Listas comprimidas (List comprehensions)
+390 Listas con estructuras [2]
+392 Conjuntos con estructuras
+395 Estructuras de datos: pilas y colas
+397 Ejecución de Scripts
+400 Generación de aleatorios [1]
+410 Generación de aleatorios [2]
+420 Contar si
+430 String: método joint
+440 Tuplas con estructuras
+450 Diccionarios con estructuras
+460 Diccionarios por compresión
+470 Introducción a las funciones
