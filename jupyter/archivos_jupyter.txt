@@ -48,13 +48,15 @@
 440 Tuplas con estructuras
 450 Diccionarios con estructuras
 460 Diccionarios por compresión
-470 Introducción a las funciones
+470 Introducción a las funciones [1]
+473 Introducción a las funciones [2]
+476 Funciones sencillas
 480 Funciones con retorno múltiple
 490 Funciones: número indeterminado de argumentos
 500 Matrices
 510 Importación de librerías
 520 Funciones. Pasar un iterable como argumento
-530 Funciones. Ejemplos sencillos
+530 Funciones. Ejemplos
 540 Funciones: recursividad
 550 Funciones. Variables globales y variables locales [1]
 560 Funciones. Variables globales y variables locales [2]
