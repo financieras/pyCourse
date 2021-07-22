@@ -1,13 +1,13 @@
 005 Hola mundo
 010 Operaciones aritméticas
 020 Cadenas (Strings)
-030 
-040 
-050 
-060 
-070 
-080 
-090 
+030 Formateando Cadenas (Strings)
+040 Nombres de variables
+050 Escribiendo líneas de código
+060 Variables
+070 Strings
+080 Input
+090 Booleanos: True, False
 100 Funciones internas
 110 String como iterable
 120 String: métodos
@@ -49,3 +49,47 @@
 450 Diccionarios con estructuras
 460 Diccionarios por compresión
 470 Introducción a las funciones
+480 Funciones con retorno múltiple
+490 Funciones: número indeterminado de argumentos
+500 Matrices
+510 Importación de librerías
+520 Funciones. Pasar un iterable como argumento
+530 Funciones. Ejemplos sencillos
+540 Funciones: recursividad
+550 Funciones. Variables globales y variables locales [1]
+560 Funciones. Variables globales y variables locales [2]
+570 Funciones. Variables globales y variables locales [3]
+580 Funciones. Pasar por referencia o por valor [1]
+590 Funciones. Adivina el número
+600 Funciones. Adivina en cuatro
+610 Funciones. Elegir elementos de una lista aleatoriamente
+620 Funciones. Ejercicios propuestos
+630 Funciones: Parámetros
+640 
+650 
+660 
+670 
+680 
+690 
+700 
+710 
+720 
+730 
+740 
+750 
+760 
+770 
+780 
+790 
+800 
+810 
+820 
+830 
+840 
+850 
+860 
+870 
+880 
+890 
+900 
+910 
