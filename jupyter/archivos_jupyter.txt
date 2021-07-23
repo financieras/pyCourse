@@ -49,7 +49,8 @@
 450 Diccionarios con estructuras
 460 Diccionarios por compresión
 470 Introducción a las funciones [1]
-473 Introducción a las funciones [2]
+471 Introducción a las funciones [1]
+473 Introducción a las funciones [3]
 476 Funciones sencillas
 480 Funciones con retorno múltiple
 490 Funciones: número indeterminado de argumentos
