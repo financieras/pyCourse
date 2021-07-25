@@ -1,98 +1,105 @@
-005 Hola mundo
-010 Operaciones aritméticas
-020 Cadenas (Strings)
-030 Formateando Cadenas (Strings)
-040 Nombres de variables
-050 Escribiendo líneas de código
-060 Variables
-070 Strings
-080 Input
-090 Booleanos: True, False
-100 Funciones internas
-110 String como iterable
-120 String: métodos
-130 Reto: Hora a la que poner la alarma
-140 Listas [1]
-150 Listas [2] Slicing Lists
-160 Listas [3]
-170 Listas [4]
-180 Tuplas [1]
-190 Tuplas [2]
-200 Diccionarios [1]
-210 Diccionarios [2]
-220 Diccionarios [3]
-230 Conjuntos [1]
-240 Conjuntos [2]
-250 Operadores de comparación
-260 Estructura condicional: if
-270 Estructura condicional: if ... else
-280 Estructura condicional: if ... elif
-290 Operadores lógicos: and, or, not
-300 Tabla de verdad
-310 Operadores de identidad: is, is not
-320 Bucle for
-330 Bucles for anidados
-340 Operadores de asignación
-350 Bucle while [1]
-360 Bucle while [2]
-370 Listas con estructuras [1]
-380 Listas comprimidas (List comprehensions)
-390 Listas con estructuras [2]
-392 Conjuntos con estructuras
-395 Estructuras de datos: pilas y colas
-397 Ejecución de Scripts
-400 Generación de aleatorios [1]
-410 Generación de aleatorios [2]
-420 Contar si
-430 String: método joint
-440 Tuplas con estructuras
-450 Diccionarios con estructuras
-460 Diccionarios por compresión
-470 Introducción a las funciones [1]
-471 Introducción a las funciones [1]
-473 Introducción a las funciones [3]
-476 Funciones sencillas
-480 Funciones con retorno múltiple
-490 Funciones: número indeterminado de argumentos
-500 Matrices
-510 Importación de librerías
-520 Funciones. Pasar un iterable como argumento
-530 Funciones. Ejemplos
-540 Funciones: recursividad
-550 Funciones. Variables globales y variables locales [1]
-560 Funciones. Variables globales y variables locales [2]
-570 Funciones. Variables globales y variables locales [3]
-580 Funciones. Pasar por referencia o por valor [1]
-590 Funciones. Adivina el número
-600 Funciones. Adivina en cuatro
-610 Funciones. Elegir elementos de una lista aleatoriamente
-620 Funciones. Ejercicios propuestos
-630 Funciones: Parámetros
-640 
-650 
-660 
-670 
-680 
-690 
-700 
-710 
-720 
-730 
-740 
-750 
-760 
-770 
-780 
-790 
-800 
-810 
-820 
-830 
-840 
-850 
-860 
-870 
-880 
-890 
-900 
-910 
+1_0010 Hola mundo
+1_0020 Operaciones aritméticas
+1_0030 Cadenas (Strings)
+1_0040 Formateando Cadenas (Strings)
+1_0050 Nombres de variables
+1_0060 Escribiendo líneas de código
+1_0070 Variables
+1_0080 Strings
+1_0090 Input
+1_0100 Booleanos: True, False
+1_0110 Funciones internas
+1_0120 String como iterable
+1_0130 String: métodos
+1_0140 Reto: Hora a la que poner la alarma
+1_0150 Listas [1]
+1_0160 Listas [2] Slicing Lists
+1_0170 Listas [3]
+1_0180 Listas [4]
+1_0190 Tuplas [1]
+1_0200 Tuplas [2]
+1_0210 Diccionarios [1]
+1_0220 Diccionarios [2]
+1_0230 Diccionarios [3]
+1_0240 Conjuntos [1]
+1_0250 Conjuntos [2]
+1_0260 Operadores de comparación
+1_0270 Estructura condicional: if
+1_0280 Estructura condicional: if ... else
+1_0290 Estructura condicional: if ... elif
+1_0300 Operadores lógicos: and, or, not
+1_0310 Tabla de verdad
+1_0320 Operadores de identidad: is, is not
+1_0330 Bucle for
+1_0340 Bucles for anidados
+1_0350 Operadores de asignación
+1_0360 Bucle while [1]
+1_0370 Bucle while [2]
+1_0380 Listas con estructuras [1]
+1_0390 Listas comprimidas (List comprehensions)
+1_0400 Listas con estructuras [2]
+1_0410 Conjuntos con estructuras
+1_0420 Estructuras de datos: pilas y colas
+1_0430 Ejecución de Scripts
+1_0440 Generación de aleatorios [1]
+1_0450 Generación de aleatorios [2]
+1_0460 Contar si
+1_0470 String: método joint
+1_0480 Tuplas con estructuras
+1_0490 Diccionarios con estructuras
+1_0500 Diccionarios por compresión
+1_0510 Introducción a las funciones [1]
+1_0520 Introducción a las funciones [1]
+1_0530 Introducción a las funciones [3]
+1_0540 Funciones sencillas
+1_0550 Funciones con retorno múltiple
+1_0560 Funciones: número indeterminado de argumentos
+1_0570 Matrices
+1_0580 Importación de librerías
+1_0590 Funciones. Pasar un iterable como argumento
+1_0600 Funciones. Ejemplos
+1_0610 Funciones: recursividad
+1_0620 Funciones. Variables globales y variables locales [1]
+1_0630 Funciones. Variables globales y variables locales [2]
+1_0640 Funciones. Variables globales y variables locales [3]
+1_0650 Funciones. Pasar por referencia o por valor [1]
+1_0660 Funciones. Adivina el número
+1_0670 Funciones. Adivina en cuatro
+1_0680 Funciones. Elegir elementos de una lista aleatoriamente
+1_0690 Funciones. Ejercicios propuestos
+1_0700 Funciones: Parámetros
+1_0710 Control de errores
+1_0720 Excepciones
+1_0730 Invocación de excepciones
+1_0740 Manejo de excepciones: ejemplos
+1_0750 
+1_0760 
+1_0770 
+1_0780 
+1_0790 
+1_0800 
+2_0010 POO: Programación Orientada a Objetos
+2_0020 
+2_0030 
+2_0040 
+2_0050 
+2_0060 
+2_0070 
+2_0080 
+2_0090 
+2_0100 
+2_0110 
+2_0120 
+2_0130 
+
+
+3_0010 Creación de una Tabla con Pandas
+3_0020 
+3_0040 
+3_0050 
+3_0060 
+3_0070 
+3_0080 
+3_0090 
+3_0100 
+3_0110 
