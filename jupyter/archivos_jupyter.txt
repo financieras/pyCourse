@@ -79,11 +79,11 @@
 1_0790 
 1_0800 
 2_0010 POO: Programación Orientada a Objetos
-2_0020 
-2_0030 
-2_0040 
-2_0050 
-2_0060 
+2_0020 Contrucción de una clase
+2_0030 El Constructor
+2_0040 Encapsulación de propiedades
+2_0050 Encapsulación de métodos
+2_0060 Herencia
 2_0070 
 2_0080 
 2_0090 
