@@ -81,11 +81,12 @@
 2_0010 POO: Programación Orientada a Objetos
 2_0020 Contrucción de una clase
 2_0030 El Constructor
+2_0033 Modificando atributos
 2_0040 Encapsulación de propiedades
 2_0050 Encapsulación de métodos
-2_0060 Herencia
-2_0070 
-2_0080 
+2_0060 Herencia [1]
+2_0070 Herencia [2]
+2_0080 Polimorfismo
 2_0090 
 2_0100 
 2_0110 
@@ -94,12 +95,14 @@
 
 
 3_0010 Creación de una Tabla con Pandas
-3_0020 
-3_0040 
-3_0050 
-3_0060 
-3_0070 
-3_0080 
-3_0090 
-3_0100 
-3_0110 
+3_0020 Paquetes más usados
+3_0030 NumPy [1]
+3_0040 NumPy [2]
+3_0050 Pandas
+3_0060 Matplotlib
+3_0070 De Excel a Python como Pandas DataFrame
+3_0080 Importar csv a Python
+3_0090 Exportar los DataFrame de Pandas
+3_0100 Módulos
+3_0110 Paquetes
+3_0110 Paquetes distribuibles
