@@ -85,7 +85,9 @@
 2_0040 Encapsulación de propiedades
 2_0050 Encapsulación de métodos
 2_0060 Herencia [1]
-2_0070 Herencia [2]
+2_0065 Herencia [2] Herencia múltiple
+2_0070 Herencia [3] super() isinstance()
+2_0073 Herencia [4] Ejemplos
 2_0080 Polimorfismo
 2_0090 
 2_0100 
@@ -105,4 +107,4 @@
 3_0090 Exportar los DataFrame de Pandas
 3_0100 Módulos
 3_0110 Paquetes
-3_0110 Paquetes distribuibles
+3_0120 Paquetes distribuibles
