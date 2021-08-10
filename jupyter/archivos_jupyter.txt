@@ -81,18 +81,24 @@
 2_0010 POO: Programación Orientada a Objetos
 2_0020 Contrucción de una clase
 2_0030 El Constructor
-2_0031 Docstring
+2_0031 Atributos de clase y de instancia
+2_0032 Docstring
 2_0033 Modificando atributos
 2_0035 Encapsulamiento en la POO
 2_0040 Encapsulación de propiedades
 2_0050 Encapsulación de métodos
 2_0055 El decorador @property
-2_0058 Ejemplos sin herencia
+2_0057 Ejemplos sin herencia [1]
+2_0058 Ejemplos sin herencia [2]
+2_0059 Ejemplos sin herencia [3]
 2_0060 Herencia [1]
 2_0065 Herencia [2] Herencia múltiple
 2_0070 Herencia [3] super() isinstance()
 2_0073 Herencia [4] Ejemplos
 2_0075 Herencia [5] Ejemplos
+2_0076 Herencia [6] Ejemplo de la función super()
+2_0077 Herencia [7] Ejemplo de encapsulamientos
+2_0078 Herencia [8] Ejemplo de herencia múltiple
 2_0080 Polimorfismo
 2_0090 
 2_0100 
