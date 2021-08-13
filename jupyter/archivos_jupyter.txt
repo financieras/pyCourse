@@ -106,8 +106,8 @@
 2_0230 Herencia [9] Sobreescritura de métodos
 2_0240 Polimorfismo
 2_0250 Funciones internas setattr, getattr, hasattr, delattr
-2_0260 
-2_0270 
+2_0260 Métodos especiales __str__ , __repr__
+2_0270 @classmethod @staticmethod
 2_0280 
 2_0290 
 2_0300 
