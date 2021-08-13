@@ -82,6 +82,7 @@
 2_0020 Contrucción de una clase
 2_0030 El Constructor
 2_0040 Atributos de clase y de instancia
+2_0045 Ejemplo constructor, atributos, métodos
 2_0050 Docstring
 2_0060 Modificando atributos
 2_0070 Encapsulamiento en la POO
@@ -99,6 +100,7 @@
 2_0180 Herencia [4] Ejemplos
 2_0190 Herencia [5] Ejemplos
 2_0200 Herencia [6] Ejemplo de la función super()
+2_0205 Ejemplo super() isinstance() issubclass()
 2_0210 Herencia [7] Ejemplo de encapsulamientos
 2_0220 Herencia [8] Ejemplo de herencia múltiple
 2_0230 Herencia [9] Sobreescritura de métodos
