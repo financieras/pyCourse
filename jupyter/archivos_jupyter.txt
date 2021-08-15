@@ -88,6 +88,7 @@
 2_0070 Encapsulamiento en la POO
 2_0080 Encapsulación de propiedades
 2_0090 Encapsulación de métodos
+2_0092 Ocultación de atributos y métodos
 2_0100 El decorador @property
 2_0110 Getter y Setter en Python
 2_0120 Ejemplos sin herencia [1]
@@ -108,7 +109,7 @@
 2_0250 Funciones internas setattr, getattr, hasattr, delattr
 2_0260 Métodos especiales __str__ , __repr__
 2_0270 @classmethod @staticmethod
-2_0280 
+2_0280 Función property()
 2_0290 
 2_0300 
 
