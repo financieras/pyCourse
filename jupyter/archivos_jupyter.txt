@@ -117,7 +117,13 @@
 3_0010 Creación de una Tabla con Pandas
 3_0020 Paquetes más usados
 3_0030 NumPy [1]
-3_0040 NumPy [2]
+3_0032 NumPy [2] Funciones sobre matrices
+3_0040 NumPy [3]
+3_0043 NumPy [4]
+3_0045 NumPy [5] Números aleatorios
+3_0046 NumPy [6] Ejes
+3_0047 NumPy [7] Funciones estadísticas
+3_0048 NumPy [8] Álgebra lineal
 3_0050 Pandas
 3_0060 Matplotlib
 3_0070 De Excel a Python como Pandas DataFrame
