@@ -2,6 +2,7 @@
 1_0020 Operaciones aritméticas
 1_0030 Cadenas (Strings)
 1_0040 Formateando Cadenas (Strings)
+1_0045 Maquetando texto
 1_0050 Nombres de variables
 1_0060 Escribiendo líneas de código
 1_0070 Variables
@@ -14,8 +15,8 @@
 1_0140 Reto: Hora a la que poner la alarma
 1_0150 Listas [1]
 1_0160 Listas [2] Slicing Lists
-1_0170 Listas [3]
-1_0180 Listas [4]
+1_0170 Listas [3] Copiar listas y matrices
+1_0180 Listas [4] Operaciones y funciones
 1_0190 Tuplas [1]
 1_0200 Tuplas [2]
 1_0210 Diccionarios [1]

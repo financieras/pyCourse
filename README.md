@@ -1,2 +1,2 @@
 # pyCourse
-Un curso de Python con orientación financiera
+Curso de Python con orientación financiera.
