@@ -1,3 +1,5 @@
+Instalaciones.txt
+
 1_0010 Hola mundo
 1_0020 Operaciones aritméticas
 1_0030 Cadenas (Strings)
@@ -90,8 +92,9 @@
 2_0080 Encapsulación de propiedades
 2_0090 Encapsulación de métodos
 2_0092 Ocultación de atributos y métodos
-2_0100 El decorador @property
+2_0100 El decorador @property                       ver https://ellibrodepython.com/decorador-property-python
 2_0110 Getter y Setter en Python
+2_0115 Ejercicio con @property
 2_0120 Ejemplos sin herencia [1]
 2_0130 Ejemplos sin herencia [2]
 2_0140 Ejemplos sin herencia [3]

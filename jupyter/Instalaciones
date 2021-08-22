@@ -1,0 +1,38 @@
+Instalaciones y programas recomendados
+
+
+WINDOWS
+
+* Averigua si tu sistema es de 32 o 64 bits. Settings, System, About, System type: 64-bit operating system, x64-based processor.
+* Instala "Windows Terminal" desde la Windows Store.
+* Sugerencia: instalar WSL2 para tener Linux instalado en tu sistema Windows. Instalar Ubuntu.
+* Visual Studio Code
+	- Instalar solo para este usuario
+* Git
+	- Download git: https://git-scm.com/download/win
+	- Marca la opción que pone: (NEW!) Add a git bash profile to windows terminal (Añade Git Bash a Windows Terminal)
+	- Elegir: Use the Nano editor by default
+	- Use Git and optional Unix tools from the Command Prompt
+	- Use bundled OpenSSH
+	- Use the OpenSSL library
+	- Si usa Windows: Opción 1: Checkout Windows-style, commit Unix-style line endings
+	- Si usa Linux o Mac: Opción 2: Chechout as-is, commit Unix-style line endings.
+	- Use Min TTY (the default terminal of MSYS2)
+	- Default (fast-forward or merge)
+	- Git Credential Manager Core
+	- Marcar ambos: 
+		· Enable file system caching
+		· Enable symbolic links
+	- Pulsar Instalar
+	- Esperar y lanzar la Consola Git: Launch Git Bash
+	- Comprobamos en la consoloa que tenemos Git instalado tecleando:   git --version
+	- pwd           (nos dice la carpeta en la que estamos, por ejemplo: /c/Users/apa )
+	- ir a la carpeta del proyecto o crearla. Podría ser en Documents/github/pyCourse
+	- git config --global user.name "John Doe"
+	- git config --global user.email johndoe@example.com
+	- git confit list    (para comprobar los parámetros de configuración)
+	- https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf
+* Obtener una cuenta gratuita de github.com
+* Anaconda. 
+	- Instalar con las opciones por defecto
+	- Cuando se pregunta la ruta de instalación aparecerá el nombre de usuario. Si el nonbre de usuario lleva espacios, eñes o tildes, se debe cambiar la ruta.
