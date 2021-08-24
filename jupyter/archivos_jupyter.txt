@@ -94,13 +94,16 @@ Instalaciones.txt
 2_0092 Ocultación de atributos y métodos
 2_0100 El decorador @property                       ver https://ellibrodepython.com/decorador-property-python
 2_0110 Getter y Setter en Python
+2_0112 Property Decorator
 2_0115 Ejercicio con @property
 2_0120 Ejemplos sin herencia [1]
 2_0130 Ejemplos sin herencia [2]
 2_0140 Ejemplos sin herencia [3]
 2_0145 Ejemplos sin herencia [4]
 2_0150 Herencia [1]
+2_0155 Herencia Ejemplo
 2_0160 Herencia [2] Herencia múltiple
+2_0165 Herencia múltiple. Ejemplo
 2_0170 Herencia [3] super() isinstance()
 2_0180 Herencia [4] Ejemplos
 2_0190 Herencia [5] Ejemplos
