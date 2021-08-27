@@ -45,14 +45,14 @@ Instalaciones.txt
 1_0420 Estructuras de datos: pilas y colas
 1_0430 Ejecución de Scripts
 1_0440 Generación de aleatorios [1]
-1_0450 Generación de aleatorios [2]
+1_0450 Generación de aleatorios [2]   https://www.programcreek.com/python/?CodeExample=set+zeroes
 1_0460 Contar si
 1_0470 String: método joint
 1_0480 Tuplas con estructuras
 1_0490 Diccionarios con estructuras
 1_0500 Diccionarios por compresión
 1_0510 Introducción a las funciones [1]
-1_0520 Introducción a las funciones [1]
+1_0520 Introducción a las funciones [2]
 1_0530 Introducción a las funciones [3]
 1_0540 Funciones sencillas
 1_0550 Funciones con retorno múltiple
