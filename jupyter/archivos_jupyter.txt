@@ -1,142 +1,141 @@
-Instalaciones.txt
+calisto1_0005.ipynb Presentación
+calisto1_0010.ipynb Hola mundo
+calisto1_0020.ipynb Operaciones aritméticas
+calisto1_0030.ipynb Cadenas (Strings)
+calisto1_0040.ipynb Formateando Cadenas (Strings)
+calisto1_0045.ipynb Maquetando texto
+calisto1_0050.ipynb Nombres de variables
+calisto1_0060.ipynb Escribiendo líneas de código
+calisto1_0070.ipynb Variables
+calisto1_0080.ipynb Strings
+calisto1_0090.ipynb Input
+calisto1_0100.ipynb Booleanos: True, False
+calisto1_0110.ipynb Funciones internas
+calisto1_0120.ipynb String como iterable
+calisto1_0130.ipynb String: métodos
+calisto1_0140.ipynb Reto: Hora a la que poner la alarma
+calisto1_0150.ipynb Listas [1]
+calisto1_0160.ipynb Listas [2] Slicing Lists
+calisto1_0170.ipynb Listas [3] Copiar listas y matrices
+calisto1_0180.ipynb Listas [4] Operaciones y funciones
+calisto1_0190.ipynb Tuplas [1]
+calisto1_0200.ipynb Tuplas [2]
+calisto1_0210.ipynb Diccionarios [1]
+calisto1_0220.ipynb Diccionarios [2]
+calisto1_0230.ipynb Diccionarios [3]
+calisto1_0240.ipynb Conjuntos [1]
+calisto1_0250.ipynb Conjuntos [2]
+calisto1_0260.ipynb Operadores de comparación
+calisto1_0270.ipynb Estructura condicional: if
+calisto1_0280.ipynb Estructura condicional: if ... else
+calisto1_0290.ipynb Estructura condicional: if ... elif
+calisto1_0300.ipynb Operadores lógicos: and, or, not
+calisto1_0310.ipynb Tabla de verdad
+calisto1_0320.ipynb Operadores de identidad: is, is not
+calisto1_0330.ipynb Bucle for
+calisto1_0340.ipynb Bucles for anidados
+calisto1_0350.ipynb Operadores de asignación
+calisto1_0360.ipynb Bucle while [1]
+calisto1_0370.ipynb Bucle while [2]
+calisto1_0380.ipynb Listas con estructuras [1]
+calisto1_0390.ipynb Listas comprimidas (List comprehensions)
+calisto1_0400.ipynb Listas con estructuras [2]
+calisto1_0410.ipynb Conjuntos con estructuras
+calisto1_0420.ipynb Estructuras de datos: pilas y colas
+calisto1_0430.ipynb Ejecución de Scripts
+calisto1_0440.ipynb Generación de aleatorios [1]
+calisto1_0450.ipynb Generación de aleatorios [2]
+calisto1_0460.ipynb Contar si
+calisto1_0470.ipynb String: método joint
+calisto1_0480.ipynb Tuplas con estructuras
+calisto1_0490.ipynb Diccionarios con estructuras
+calisto1_0500.ipynb Diccionarios por compresión
+calisto1_0510.ipynb Introducción a las funciones [1]
+calisto1_0520.ipynb Introducción a las funciones [2]
+calisto1_0530.ipynb Introducción a las funciones [3]
+calisto1_0540.ipynb Funciones sencillas
+calisto1_0550.ipynb Funciones con retorno múltiple
+calisto1_0560.ipynb Funciones: número indeterminado de argumentos
+calisto1_0570.ipynb Matrices
+calisto1_0580.ipynb Importación de librerías
+calisto1_0590.ipynb Funciones. Pasar un iterable como argumento
+calisto1_0600.ipynb Funciones. Ejemplos
+calisto1_0610.ipynb Funciones: recursividad
+calisto1_0620.ipynb Funciones. Variables globales y variables locales [1]
+calisto1_0630.ipynb Funciones. Variables globales y variables locales [2]
+calisto1_0640.ipynb Funciones. Variables globales y variables locales [3]
+calisto1_0650.ipynb Funciones. Pasar por referencia o por valor [1]
+calisto1_0660.ipynb Funciones. Adivina el número
+calisto1_0670.ipynb Funciones. Adivina en cuatro
+calisto1_0680.ipynbFunciones. Elegir elementos de una lista aleatoriamente
+calisto1_0690.ipynb Funciones. Ejercicios propuestos
+calisto1_0700.ipynbFunciones: Parámetros
+calisto1_0710.ipynbControl de errores
+calisto1_0720.ipynbExcepciones
+calisto1_0730.ipynb Invocación de excepciones
+calisto1_0740.ipynbManejo de excepciones: ejemplos
+calisto1_0750.ipynb 
+calisto1_0760.ipynb 
+calisto1_0770.ipynb 
+calisto1_0780.ipynb 
+calisto1_0790.ipynb 
+calisto1_0800.ipynb 
+calisto2_0010.ipynb POO: Programación Orientada a Objetos
+calisto2_0020.ipynb Contrucción de una clase
+calisto2_0030.ipynb El Constructor
+calisto2_0040.ipynb Atributos de clase y de instancia
+calisto2_0045.ipynb Ejemplo constructor, atributos, métodos
+calisto2_0050.ipynb Docstring
+calisto2_0060.ipynb Modificando atributos
+calisto2_0070.ipynb Encapsulamiento en la POO
+calisto2_0080.ipynb Encapsulación de propiedades
+calisto2_0090.ipynb Encapsulación de métodos
+calisto2_0092.ipynb Ocultación de atributos y métodos
+calisto2_0100.ipynb El decorador @property                       ver https://ellibrodepython.com/decorador-property-python
+calisto2_0110.ipynb Getter y Setter en Python
+calisto2_0112.ipynb Property Decorator
+calisto2_0115.ipynb Ejercicio con @property
+calisto2_0120.ipynb Ejemplos sin herencia [1]
+calisto2_0130.ipynb Ejemplos sin herencia [2]
+calisto2_0140.ipynb Ejemplos sin herencia [3]
+calisto2_0145.ipynb Ejemplos sin herencia [4]
+calisto2_0150.ipynb Herencia [1]
+calisto2_0155.ipynb Herencia Ejemplo
+calisto2_0160.ipynb Herencia [2] Herencia múltiple
+calisto2_0165.ipynb Herencia múltiple. Ejemplo
+calisto2_0170.ipynb Herencia [3] super() isinstance()
+calisto2_0180.ipynb Herencia [4] Ejemplos
+calisto2_0190.ipynb Herencia [5] Ejemplos
+calisto2_0200.ipynb Herencia [6] Ejemplo de la función super()
+calisto2_0205.ipynb Ejemplo super() isinstance() issubclass()
+calisto2_0210.ipynb Herencia [7] Ejemplo de encapsulamientos
+calisto2_0220.ipynb Herencia [8] Ejemplo de herencia múltiple
+calisto2_0230.ipynb Herencia [9] Sobreescritura de métodos
+calisto2_0240.ipynb Polimorfismo
+calisto2_0250.ipynb Funciones internas setattr, getattr, hasattr, delattr
+calisto2_0260.ipynb Métodos especiales __str__ , __repr__
+calisto2_0270.ipynb @classmethod @staticmethod
+calisto2_0280.ipynb Función property()
+calisto2_0290.ipynb 
+calisto2_0300.ipynb
 
-1_0010 Hola mundo
-1_0020 Operaciones aritméticas
-1_0030 Cadenas (Strings)
-1_0040 Formateando Cadenas (Strings)
-1_0045 Maquetando texto
-1_0050 Nombres de variables
-1_0060 Escribiendo líneas de código
-1_0070 Variables
-1_0080 Strings
-1_0090 Input
-1_0100 Booleanos: True, False
-1_0110 Funciones internas
-1_0120 String como iterable
-1_0130 String: métodos
-1_0140 Reto: Hora a la que poner la alarma
-1_0150 Listas [1]
-1_0160 Listas [2] Slicing Lists
-1_0170 Listas [3] Copiar listas y matrices
-1_0180 Listas [4] Operaciones y funciones
-1_0190 Tuplas [1]
-1_0200 Tuplas [2]
-1_0210 Diccionarios [1]
-1_0220 Diccionarios [2]
-1_0230 Diccionarios [3]
-1_0240 Conjuntos [1]
-1_0250 Conjuntos [2]
-1_0260 Operadores de comparación
-1_0270 Estructura condicional: if
-1_0280 Estructura condicional: if ... else
-1_0290 Estructura condicional: if ... elif
-1_0300 Operadores lógicos: and, or, not
-1_0310 Tabla de verdad
-1_0320 Operadores de identidad: is, is not
-1_0330 Bucle for
-1_0340 Bucles for anidados
-1_0350 Operadores de asignación
-1_0360 Bucle while [1]
-1_0370 Bucle while [2]
-1_0380 Listas con estructuras [1]
-1_0390 Listas comprimidas (List comprehensions)
-1_0400 Listas con estructuras [2]
-1_0410 Conjuntos con estructuras
-1_0420 Estructuras de datos: pilas y colas
-1_0430 Ejecución de Scripts
-1_0440 Generación de aleatorios [1]
-1_0450 Generación de aleatorios [2]   https://www.programcreek.com/python/?CodeExample=set+zeroes
-1_0460 Contar si
-1_0470 String: método joint
-1_0480 Tuplas con estructuras
-1_0490 Diccionarios con estructuras
-1_0500 Diccionarios por compresión
-1_0510 Introducción a las funciones [1]
-1_0520 Introducción a las funciones [2]
-1_0530 Introducción a las funciones [3]
-1_0540 Funciones sencillas
-1_0550 Funciones con retorno múltiple
-1_0560 Funciones: número indeterminado de argumentos
-1_0570 Matrices
-1_0580 Importación de librerías
-1_0590 Funciones. Pasar un iterable como argumento
-1_0600 Funciones. Ejemplos
-1_0610 Funciones: recursividad
-1_0620 Funciones. Variables globales y variables locales [1]
-1_0630 Funciones. Variables globales y variables locales [2]
-1_0640 Funciones. Variables globales y variables locales [3]
-1_0650 Funciones. Pasar por referencia o por valor [1]
-1_0660 Funciones. Adivina el número
-1_0670 Funciones. Adivina en cuatro
-1_0680 Funciones. Elegir elementos de una lista aleatoriamente
-1_0690 Funciones. Ejercicios propuestos
-1_0700 Funciones: Parámetros
-1_0710 Control de errores
-1_0720 Excepciones
-1_0730 Invocación de excepciones
-1_0740 Manejo de excepciones: ejemplos
-1_0750 
-1_0760 
-1_0770 
-1_0780 
-1_0790 
-1_0800 
-2_0010 POO: Programación Orientada a Objetos
-2_0020 Contrucción de una clase
-2_0030 El Constructor
-2_0040 Atributos de clase y de instancia
-2_0045 Ejemplo constructor, atributos, métodos
-2_0050 Docstring
-2_0060 Modificando atributos
-2_0070 Encapsulamiento en la POO
-2_0080 Encapsulación de propiedades
-2_0090 Encapsulación de métodos
-2_0092 Ocultación de atributos y métodos
-2_0100 El decorador @property                       ver https://ellibrodepython.com/decorador-property-python
-2_0110 Getter y Setter en Python
-2_0112 Property Decorator
-2_0115 Ejercicio con @property
-2_0120 Ejemplos sin herencia [1]
-2_0130 Ejemplos sin herencia [2]
-2_0140 Ejemplos sin herencia [3]
-2_0145 Ejemplos sin herencia [4]
-2_0150 Herencia [1]
-2_0155 Herencia Ejemplo
-2_0160 Herencia [2] Herencia múltiple
-2_0165 Herencia múltiple. Ejemplo
-2_0170 Herencia [3] super() isinstance()
-2_0180 Herencia [4] Ejemplos
-2_0190 Herencia [5] Ejemplos
-2_0200 Herencia [6] Ejemplo de la función super()
-2_0205 Ejemplo super() isinstance() issubclass()
-2_0210 Herencia [7] Ejemplo de encapsulamientos
-2_0220 Herencia [8] Ejemplo de herencia múltiple
-2_0230 Herencia [9] Sobreescritura de métodos
-2_0240 Polimorfismo
-2_0250 Funciones internas setattr, getattr, hasattr, delattr
-2_0260 Métodos especiales __str__ , __repr__
-2_0270 @classmethod @staticmethod
-2_0280 Función property()
-2_0290 
-2_0300 
 
-
-3_0010 Creación de una Tabla con Pandas
-3_0020 Paquetes más usados
-3_0030 NumPy [1]
-3_0032 NumPy [2] Funciones sobre matrices
-3_0040 NumPy [3]
-3_0043 NumPy [4]
-3_0045 NumPy [5] Números aleatorios
-3_0046 NumPy [6] Ejes
-3_0047 NumPy [7] Funciones estadísticas
-3_0048 NumPy [8] Álgebra lineal
-3_0050 Pandas
-3_0060 Matplotlib
-3_0070 De Excel a Python como Pandas DataFrame
-3_0080 Importar csv a Python
-3_0090 Exportar los DataFrame de Pandas
-3_0100 Módulos
-3_0110 Paquetes
-3_0120 Paquetes distribuibles
-3_0130 Tiempo de ejecución
+calisto3_0010.ipynb Creación de una Tabla con Pandas
+calisto3_0020.ipynb Paquetes más usados
+calisto3_0030.ipynb NumPy [1]
+calisto3_0032.ipynb NumPy [2] Funciones sobre matrices
+calisto3_0040.ipynb NumPy [3]
+calisto3_0043.ipynb NumPy [4]
+calisto3_0045.ipynb NumPy [5] Números aleatorios
+calisto3_0046.ipynb NumPy [6] Ejes
+calisto3_0047.ipynb NumPy [7] Funciones estadísticas
+calisto3_0048.ipynb NumPy [8] Álgebra lineal
+calisto3_0050.ipynb Pandas
+calisto3_0060.ipynb Matplotlib
+calisto3_0070.ipynb De Excel a Python como Pandas DataFrame
+calisto3_0080.ipynb Importar csv a Python
+calisto3_0090.ipynb Exportar los DataFrame de Pandas
+calisto3_0100.ipynb Módulos
+calisto3_0110.ipynb Paquetes
+calisto3_0120.ipynb Paquetes distribuibles
+calisto3_0130.ipynb Tiempo de ejecución
