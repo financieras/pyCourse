@@ -74,12 +74,7 @@ calisto1_0710.ipynbControl de errores
 calisto1_0720.ipynbExcepciones
 calisto1_0730.ipynb Invocación de excepciones
 calisto1_0740.ipynbManejo de excepciones: ejemplos
-calisto1_0750.ipynb 
-calisto1_0760.ipynb 
-calisto1_0770.ipynb 
-calisto1_0780.ipynb 
-calisto1_0790.ipynb 
-calisto1_0800.ipynb 
+
 calisto2_0010.ipynb POO: Programación Orientada a Objetos
 calisto2_0020.ipynb Contrucción de una clase
 calisto2_0030.ipynb El Constructor
@@ -99,6 +94,7 @@ calisto2_0120.ipynb Ejemplos sin herencia [1]
 calisto2_0130.ipynb Ejemplos sin herencia [2]
 calisto2_0140.ipynb Ejemplos sin herencia [3]
 calisto2_0145.ipynb Ejemplos sin herencia [4]
+calisto2_0146.ipynb Ejemplos sin herencia [5]
 calisto2_0150.ipynb Herencia [1]
 calisto2_0155.ipynb Herencia Ejemplo
 calisto2_0160.ipynb Herencia [2] Herencia múltiple
@@ -116,9 +112,6 @@ calisto2_0250.ipynb Funciones internas setattr, getattr, hasattr, delattr
 calisto2_0260.ipynb Métodos especiales __str__ , __repr__
 calisto2_0270.ipynb @classmethod @staticmethod
 calisto2_0280.ipynb Función property()
-calisto2_0290.ipynb 
-calisto2_0300.ipynb
-
 
 calisto3_0010.ipynb Creación de una Tabla con Pandas
 calisto3_0020.ipynb Paquetes más usados
@@ -139,3 +132,7 @@ calisto3_0100.ipynb Módulos
 calisto3_0110.ipynb Paquetes
 calisto3_0120.ipynb Paquetes distribuibles
 calisto3_0130.ipynb Tiempo de ejecución
+calisto3_0140.ipynb APIs externas
+calisto3_0150.ipynb Librería openpyxl
+calisto3_0160.ipynb Flask
+calisto3_0160.ipynb Librería actuarial pyliferisk
