@@ -79,60 +79,60 @@ calisto2_0010.ipynb POO: Programación Orientada a Objetos
 calisto2_0020.ipynb Contrucción de una clase
 calisto2_0030.ipynb El Constructor
 calisto2_0040.ipynb Atributos de clase y de instancia
-calisto2_0045.ipynb Ejemplo constructor, atributos, métodos
-calisto2_0050.ipynb Docstring
-calisto2_0060.ipynb Modificando atributos
-calisto2_0070.ipynb Encapsulamiento en la POO
-calisto2_0080.ipynb Encapsulación de propiedades
-calisto2_0090.ipynb Encapsulación de métodos
-calisto2_0092.ipynb Ocultación de atributos y métodos
-calisto2_0100.ipynb El decorador @property                       ver https://ellibrodepython.com/decorador-property-python
-calisto2_0110.ipynb Getter y Setter en Python
-calisto2_0112.ipynb Property Decorator
-calisto2_0115.ipynb Ejercicio con @property
-calisto2_0120.ipynb Ejemplos sin herencia [1]
-calisto2_0130.ipynb Ejemplos sin herencia [2]
-calisto2_0140.ipynb Ejemplos sin herencia [3]
-calisto2_0145.ipynb Ejemplos sin herencia [4]
-calisto2_0146.ipynb Ejemplos sin herencia [5]
-calisto2_0150.ipynb Herencia [1]
-calisto2_0155.ipynb Herencia Ejemplo
-calisto2_0160.ipynb Herencia [2] Herencia múltiple
-calisto2_0165.ipynb Herencia múltiple. Ejemplo
-calisto2_0170.ipynb Herencia [3] super() isinstance()
-calisto2_0180.ipynb Herencia [4] Ejemplos
-calisto2_0190.ipynb Herencia [5] Ejemplos
-calisto2_0200.ipynb Herencia [6] Ejemplo de la función super()
-calisto2_0205.ipynb Ejemplo super() isinstance() issubclass()
-calisto2_0210.ipynb Herencia [7] Ejemplo de encapsulamientos
-calisto2_0220.ipynb Herencia [8] Ejemplo de herencia múltiple
-calisto2_0230.ipynb Herencia [9] Sobreescritura de métodos
-calisto2_0240.ipynb Polimorfismo
-calisto2_0250.ipynb Funciones internas setattr, getattr, hasattr, delattr
-calisto2_0260.ipynb Métodos especiales __str__ , __repr__
-calisto2_0270.ipynb @classmethod @staticmethod
-calisto2_0280.ipynb Función property()
+calisto2_0050.ipynb Ejemplo constructor, atributos, métodos
+calisto2_0060.ipynb Docstring
+calisto2_0070.ipynb Modificando atributos
+calisto2_0080.ipynb Encapsulamiento en la POO
+calisto2_0090.ipynb Encapsulación de propiedades
+calisto2_0100.ipynb Encapsulación de métodos
+calisto2_0110.ipynb Ocultación de atributos y métodos
+calisto2_0120.ipynb El decorador @property
+calisto2_0130.ipynb Getter y Setter en Python
+calisto2_0140.ipynb Property Decorator
+calisto2_0150.ipynb Ejercicio con @property
+calisto2_0160.ipynb Ejemplos sin herencia [1]
+calisto2_0170.ipynb Ejemplos sin herencia [2]
+calisto2_0180.ipynb Ejemplos sin herencia [3]
+calisto2_0190.ipynb Ejemplos sin herencia [4]
+calisto2_0200.ipynb Ejemplos sin herencia [5]
+calisto2_0210.ipynb Herencia [1]
+calisto2_0220.ipynb Herencia Ejemplo
+calisto2_0230.ipynb Herencia [2] Herencia múltiple
+calisto2_0240.ipynb Herencia múltiple. Ejemplo
+calisto2_0250.ipynb Herencia [3] super() isinstance()
+calisto2_0260.ipynb Herencia [4] Ejemplos
+calisto2_0270.ipynb Herencia [5] Ejemplos
+calisto2_0280.ipynb Herencia [6] Ejemplo de la función super()
+calisto2_0290.ipynb Ejemplo super() isinstance() issubclass()
+calisto2_0300.ipynb Herencia [7] Ejemplo de encapsulamientos
+calisto2_0310.ipynb Herencia [8] Ejemplo de herencia múltiple
+calisto2_0320.ipynb Herencia [9] Sobreescritura de métodos
+calisto2_0330.ipynb Polimorfismo
+calisto2_0340.ipynb Funciones internas setattr, getattr, hasattr, delattr
+calisto2_0350.ipynb Métodos especiales __str__ , __repr__
+calisto2_0360.ipynb @classmethod @staticmethod
+calisto2_0370.ipynb Función property()
 
 calisto3_0010.ipynb Creación de una Tabla con Pandas
 calisto3_0020.ipynb Paquetes más usados
 calisto3_0030.ipynb NumPy [1]
-calisto3_0032.ipynb NumPy [2] Funciones sobre matrices
-calisto3_0040.ipynb NumPy [3]
-calisto3_0043.ipynb NumPy [4]
-calisto3_0045.ipynb NumPy [5] Números aleatorios
-calisto3_0046.ipynb NumPy [6] Ejes
-calisto3_0047.ipynb NumPy [7] Funciones estadísticas
-calisto3_0048.ipynb NumPy [8] Álgebra lineal
-calisto3_0050.ipynb Pandas
-calisto3_0060.ipynb Matplotlib
-calisto3_0070.ipynb De Excel a Python como Pandas DataFrame
-calisto3_0080.ipynb Importar csv a Python
-calisto3_0090.ipynb Exportar los DataFrame de Pandas
-calisto3_0100.ipynb Módulos
-calisto3_0110.ipynb Paquetes
-calisto3_0120.ipynb Paquetes distribuibles
-calisto3_0130.ipynb Tiempo de ejecución
-calisto3_0140.ipynb APIs externas
-calisto3_0150.ipynb Librería openpyxl
-calisto3_0160.ipynb Flask
-calisto3_0160.ipynb Librería actuarial pyliferisk
+calisto3_0040.ipynb NumPy [2] Funciones sobre matrices
+calisto3_0050.ipynb NumPy [3]
+calisto3_0060.ipynb NumPy [4]
+calisto3_0070.ipynb NumPy [5] Números aleatorios
+calisto3_0080.ipynb NumPy [6] Ejes
+calisto3_0090.ipynb NumPy [7] Funciones estadísticas
+calisto3_0100.ipynb NumPy [8] Álgebra lineal
+calisto3_0110.ipynb Pandas
+calisto3_0120.ipynb Matplotlib
+calisto3_0130.ipynb De Excel a Python como Pandas DataFrame
+calisto3_0140.ipynb Importar csv a Python
+calisto3_0150.ipynb Exportar los DataFrame de Pandas
+calisto3_0160.ipynb Módulos
+calisto3_0170.ipynb Paquetes
+calisto3_0180.ipynb Paquetes distribuibles
+calisto3_0190.ipynb Tiempo de ejecución
+calisto3_0200.ipynb APIs externas
+calisto3_0210.ipynb Librería openpyxl
+calisto3_0220.ipynb Flask
+calisto3_0230.ipynb Librería actuarial pyliferisk
