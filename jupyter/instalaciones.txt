@@ -32,7 +32,10 @@ WINDOWS
 	- git config --global user.email johndoe@example.com
 	- git confit list    (para comprobar los parámetros de configuración)
 	- https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf
+        - Un video con un minicurso: https://youtu.be/HiXLkL42tMU
 * Obtener una cuenta gratuita de github.com
 * Anaconda. 
+        - La versión gratuita se denomina "Anaconda Individual Edition"
+        - Pesa bastante porque incluye muchas librerías. La versión actual de Windows pesa 477 Mb.
 	- Instalar con las opciones por defecto
 	- Cuando se pregunta la ruta de instalación aparecerá el nombre de usuario. Si el nonbre de usuario lleva espacios, eñes o tildes, se debe cambiar la ruta.

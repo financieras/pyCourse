@@ -1,79 +1,79 @@
-calisto1_0005.ipynb Presentación
-calisto1_0010.ipynb Hola mundo
-calisto1_0020.ipynb Operaciones aritméticas
-calisto1_0030.ipynb Cadenas (Strings)
-calisto1_0040.ipynb Formateando Cadenas (Strings)
-calisto1_0045.ipynb Maquetando texto
-calisto1_0050.ipynb Nombres de variables
-calisto1_0060.ipynb Escribiendo líneas de código
-calisto1_0070.ipynb Variables
-calisto1_0080.ipynb Strings
-calisto1_0090.ipynb Input
-calisto1_0100.ipynb Booleanos: True, False
-calisto1_0110.ipynb Funciones internas
-calisto1_0120.ipynb String como iterable
-calisto1_0130.ipynb String: métodos
-calisto1_0140.ipynb Reto: Hora a la que poner la alarma
-calisto1_0150.ipynb Listas [1]
-calisto1_0160.ipynb Listas [2] Slicing Lists
-calisto1_0170.ipynb Listas [3] Copiar listas y matrices
-calisto1_0180.ipynb Listas [4] Operaciones y funciones
-calisto1_0190.ipynb Tuplas [1]
-calisto1_0200.ipynb Tuplas [2]
-calisto1_0210.ipynb Diccionarios [1]
-calisto1_0220.ipynb Diccionarios [2]
-calisto1_0230.ipynb Diccionarios [3]
-calisto1_0240.ipynb Conjuntos [1]
-calisto1_0250.ipynb Conjuntos [2]
-calisto1_0260.ipynb Operadores de comparación
-calisto1_0270.ipynb Estructura condicional: if
-calisto1_0280.ipynb Estructura condicional: if ... else
-calisto1_0290.ipynb Estructura condicional: if ... elif
-calisto1_0300.ipynb Operadores lógicos: and, or, not
-calisto1_0310.ipynb Tabla de verdad
-calisto1_0320.ipynb Operadores de identidad: is, is not
-calisto1_0330.ipynb Bucle for
-calisto1_0340.ipynb Bucles for anidados
-calisto1_0350.ipynb Operadores de asignación
-calisto1_0360.ipynb Bucle while [1]
-calisto1_0370.ipynb Bucle while [2]
-calisto1_0380.ipynb Listas con estructuras [1]
-calisto1_0390.ipynb Listas comprimidas (List comprehensions)
-calisto1_0400.ipynb Listas con estructuras [2]
-calisto1_0410.ipynb Conjuntos con estructuras
-calisto1_0420.ipynb Estructuras de datos: pilas y colas
-calisto1_0430.ipynb Ejecución de Scripts
-calisto1_0440.ipynb Generación de aleatorios [1]
-calisto1_0450.ipynb Generación de aleatorios [2]
-calisto1_0460.ipynb Contar si
-calisto1_0470.ipynb String: método joint
-calisto1_0480.ipynb Tuplas con estructuras
-calisto1_0490.ipynb Diccionarios con estructuras
-calisto1_0500.ipynb Diccionarios por compresión
-calisto1_0510.ipynb Introducción a las funciones [1]
-calisto1_0520.ipynb Introducción a las funciones [2]
-calisto1_0530.ipynb Introducción a las funciones [3]
-calisto1_0540.ipynb Funciones sencillas
-calisto1_0550.ipynb Funciones con retorno múltiple
-calisto1_0560.ipynb Funciones: número indeterminado de argumentos
-calisto1_0570.ipynb Matrices
-calisto1_0580.ipynb Importación de librerías
-calisto1_0590.ipynb Funciones. Pasar un iterable como argumento
-calisto1_0600.ipynb Funciones. Ejemplos
-calisto1_0610.ipynb Funciones: recursividad
-calisto1_0620.ipynb Funciones. Variables globales y variables locales [1]
-calisto1_0630.ipynb Funciones. Variables globales y variables locales [2]
-calisto1_0640.ipynb Funciones. Variables globales y variables locales [3]
-calisto1_0650.ipynb Funciones. Pasar por referencia o por valor [1]
-calisto1_0660.ipynb Funciones. Adivina el número
-calisto1_0670.ipynb Funciones. Adivina en cuatro
-calisto1_0680.ipynbFunciones. Elegir elementos de una lista aleatoriamente
-calisto1_0690.ipynb Funciones. Ejercicios propuestos
-calisto1_0700.ipynbFunciones: Parámetros
-calisto1_0710.ipynbControl de errores
-calisto1_0720.ipynbExcepciones
-calisto1_0730.ipynb Invocación de excepciones
-calisto1_0740.ipynbManejo de excepciones: ejemplos
+calisto1_0010.ipynb Presentación
+calisto1_0020.ipynb Hola mundo
+calisto1_0030.ipynb Operaciones aritméticas
+calisto1_0040.ipynb Cadenas (Strings)
+calisto1_0050.ipynb Formateando Cadenas (Strings)
+calisto1_0060.ipynb Maquetando texto
+calisto1_0070.ipynb Nombres de variables
+calisto1_0080.ipynb Escribiendo líneas de código
+calisto1_0090.ipynb Variables
+calisto1_0100.ipynb Strings
+calisto1_0110.ipynb Input
+calisto1_0120.ipynb Booleanos: True, False
+calisto1_0130.ipynb Funciones internas
+calisto1_0140.ipynb String como iterable
+calisto1_0150.ipynb String: métodos
+calisto1_0160.ipynb Reto: Hora a la que poner la alarma
+calisto1_0170.ipynb Listas [1]
+calisto1_0180.ipynb Listas [2] Slicing Lists
+calisto1_0190.ipynb Listas [3] Copiar listas y matrices
+calisto1_0200.ipynb Listas [4] Operaciones y funciones
+calisto1_0210.ipynb Tuplas [1]
+calisto1_0220.ipynb Tuplas [2]
+calisto1_0230.ipynb Diccionarios [1]
+calisto1_0240.ipynb Diccionarios [2]
+calisto1_0250.ipynb Diccionarios [3]
+calisto1_0260.ipynb Conjuntos [1]
+calisto1_0270.ipynb Conjuntos [2]
+calisto1_0280.ipynb Operadores de comparación
+calisto1_0290.ipynb Estructura condicional: if
+calisto1_0300.ipynb Estructura condicional: if ... else
+calisto1_0310.ipynb Estructura condicional: if ... elif
+calisto1_0320.ipynb Operadores lógicos: and, or, not
+calisto1_0330.ipynb Tabla de verdad
+calisto1_0340.ipynb Operadores de identidad: is, is not
+calisto1_0350.ipynb Bucle for
+calisto1_0360.ipynb Bucles for anidados
+calisto1_0370.ipynb Operadores de asignación
+calisto1_0380.ipynb Bucle while [1]
+calisto1_0390.ipynb Bucle while [2]
+calisto1_0400.ipynb Listas con estructuras [1]
+calisto1_0410.ipynb Listas comprimidas (List comprehensions)
+calisto1_0420.ipynb Listas con estructuras [2]
+calisto1_0430.ipynb Conjuntos con estructuras
+calisto1_0440.ipynb Estructuras de datos: pilas y colas
+calisto1_0450.ipynb Ejecución de Scripts
+calisto1_0460.ipynb Generación de aleatorios [1]
+calisto1_0470.ipynb Generación de aleatorios [2]
+calisto1_0480.ipynb Contar si
+calisto1_0490.ipynb String: método joint
+calisto1_0500.ipynb Tuplas con estructuras
+calisto1_0510.ipynb Diccionarios con estructuras
+calisto1_0520.ipynb Diccionarios por compresión
+calisto1_0530.ipynb Introducción a las funciones [1]
+calisto1_0540.ipynb Introducción a las funciones [2]
+calisto1_0550.ipynb Introducción a las funciones [3]
+calisto1_0560.ipynb Funciones sencillas
+calisto1_0570.ipynb Funciones con retorno múltiple
+calisto1_0580.ipynb Funciones: número indeterminado de argumentos
+calisto1_0590.ipynb Matrices
+calisto1_0600.ipynb Importación de librerías
+calisto1_0610.ipynb Funciones. Pasar un iterable como argumento
+calisto1_0620.ipynb Funciones. Ejemplos
+calisto1_0630.ipynb Funciones: recursividad
+calisto1_0640.ipynb Funciones. Variables globales y variables locales [1]
+calisto1_0650.ipynb Funciones. Variables globales y variables locales [2]
+calisto1_0660.ipynb Funciones. Variables globales y variables locales [3]
+calisto1_0670.ipynb Funciones. Pasar por referencia o por valor [1]
+calisto1_0680.ipynb Funciones. Adivina el número
+calisto1_0690.ipynb Funciones. Adivina en cuatro
+calisto1_0700.ipynbFunciones. Elegir elementos de una lista aleatoriamente
+calisto1_0710.ipynb Funciones. Ejercicios propuestos
+calisto1_0720.ipynbFunciones: Parámetros
+calisto1_0730.ipynbControl de errores
+calisto1_0740.ipynbExcepciones
+calisto1_0750.ipynb Invocación de excepciones
+calisto1_0760.ipynbManejo de excepciones: ejemplos
 
 calisto2_0010.ipynb POO: Programación Orientada a Objetos
 calisto2_0020.ipynb Contrucción de una clase
