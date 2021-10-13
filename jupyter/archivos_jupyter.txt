@@ -1,4 +1,5 @@
 calisto1_0010.ipynb Presentación
+calisto1_0015.ipynb Magic commands
 calisto1_0020.ipynb Hola mundo
 calisto1_0030.ipynb Operaciones aritméticas
 calisto1_0040.ipynb Cadenas (Strings)
