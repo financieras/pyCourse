@@ -47,7 +47,7 @@
 * calisto1_0460.ipynb Generación de aleatorios [1]
 * calisto1_0470.ipynb Generación de aleatorios [2]
 * calisto1_0480.ipynb Contar si
-* calisto1_0490.ipynb String: método joint
+* calisto1_0490.ipynb String: método join
 * calisto1_0500.ipynb Tuplas con estructuras
 * calisto1_0510.ipynb Diccionarios con estructuras
 * calisto1_0520.ipynb Diccionarios por compresión
