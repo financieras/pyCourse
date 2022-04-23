@@ -75,6 +75,7 @@
 * calisto1_0740.ipynb Excepciones
 * calisto1_0750.ipynb Invocación de excepciones
 * calisto1_0760.ipynb Manejo de excepciones: ejemplos
+* calisto1_0770.ipynb Funciones Lambda
 * calisto2_0010.ipynb POO: Programación Orientada a Objetos
 * calisto2_0020.ipynb Contrucción de una clase
 * calisto2_0030.ipynb El Constructor
