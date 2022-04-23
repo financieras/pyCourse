@@ -50,7 +50,7 @@
 * calisto1_0490.ipynb String: método join
 * calisto1_0500.ipynb Tuplas con estructuras
 * calisto1_0510.ipynb Diccionarios con estructuras
-* calisto1_0520.ipynb Diccionarios por compresión
+* calisto1_0520.ipynb Diccionarios por comprensión
 * calisto1_0530.ipynb Introducción a las funciones [1]
 * calisto1_0540.ipynb Introducción a las funciones [2]
 * calisto1_0550.ipynb Introducción a las funciones [3]
@@ -68,13 +68,13 @@
 * calisto1_0670.ipynb Funciones. Pasar por referencia o por valor [1]
 * calisto1_0680.ipynb Funciones. Adivina el número
 * calisto1_0690.ipynb Funciones. Adivina en cuatro
-* calisto1_0700.ipynbFunciones. Elegir elementos de una lista aleatoriamente
+* calisto1_0700.ipynb Funciones. Elegir elementos de una lista aleatoriamente
 * calisto1_0710.ipynb Funciones. Ejercicios propuestos
-* calisto1_0720.ipynbFunciones: Parámetros
-* calisto1_0730.ipynbControl de errores
-* calisto1_0740.ipynbExcepciones
+* calisto1_0720.ipynb Funciones: Parámetros
+* calisto1_0730.ipynb Control de errores
+* calisto1_0740.ipynb Excepciones
 * calisto1_0750.ipynb Invocación de excepciones
-* calisto1_0760.ipynbManejo de excepciones: ejemplos
+* calisto1_0760.ipynb Manejo de excepciones: ejemplos
 * calisto2_0010.ipynb POO: Programación Orientada a Objetos
 * calisto2_0020.ipynb Contrucción de una clase
 * calisto2_0030.ipynb El Constructor
