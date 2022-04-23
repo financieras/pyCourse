@@ -30,6 +30,7 @@
 * calisto1_0290.ipynb Estructura condicional: if
 * calisto1_0300.ipynb Estructura condicional: if ... else
 * calisto1_0310.ipynb Estructura condicional: if ... elif
+* calisto1_0315.ipynb Operadores ternarios
 * calisto1_0320.ipynb Operadores lógicos: and, or, not
 * calisto1_0330.ipynb Tabla de verdad
 * calisto1_0340.ipynb Operadores de identidad: is, is not
