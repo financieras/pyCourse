@@ -69,7 +69,7 @@
 * calisto1_0670.ipynb Funciones. Pasar por referencia o por valor [1]
 * calisto1_0680.ipynb Funciones. Adivina el número
 * calisto1_0690.ipynb Funciones. Adivina en cuatro
-* calisto1_0700.ipynb Funciones. Elegir elementos de una lista aleatoriamente
+* calisto1_0700.ipynb Funciones. Elegir elementos de una lista aleatoriamente sin repetición
 * calisto1_0710.ipynb Funciones. Ejercicios propuestos
 * calisto1_0720.ipynb Funciones: Parámetros
 * calisto1_0730.ipynb Control de errores
