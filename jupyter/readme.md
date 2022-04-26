@@ -108,7 +108,7 @@
 * calisto2_0290.ipynb Ejemplo super() isinstance() issubclass()
 * calisto2_0300.ipynb Herencia [7] Ejemplo de encapsulamientos
 * calisto2_0310.ipynb Herencia [8] Ejemplo de herencia múltiple
-* calisto2_0320.ipynb Herencia [9] Sobreescritura de métodos
+* calisto2_0320.ipynb Herencia [9] Sobrescritura de métodos
 * calisto2_0330.ipynb Polimorfismo
 * calisto2_0340.ipynb Funciones internas setattr, getattr, hasattr, delattr
 * calisto2_0350.ipynb Métodos especiales __str__ , __repr__
