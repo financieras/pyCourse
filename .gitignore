@@ -252,3 +252,6 @@ pip-selfcheck.json
 
 #idea folder
 .idea/
+
+# Incluyo los archivos de chekpoints que hace Google Colab al grabar manualmente un archivo
+.ipynb_checkpoints
