@@ -139,3 +139,6 @@
 * calisto3_0230.ipynb Librería actuarial pyliferisk
 * calisto3_0240.ipynb Bot de Telegram para cotizaciones en tiempo real
 * calisto3_0250.ipynb Estrategias de Trading
+* calisto3_0260.ipynb VAN y TIR
+* calisto3_0270.ipynb Préstamos
+* calisto3_0280.ipynb Bonos, ETTI, forward, arbitraje
