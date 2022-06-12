@@ -138,3 +138,4 @@
 * calisto3_0220.ipynb Flask
 * calisto3_0230.ipynb Librería actuarial pyliferisk
 * calisto3_0240.ipynb Bot de Telegram para cotizaciones en tiempo real
+* calisto3_0250.ipynb Estrategias de Trading
