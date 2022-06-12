@@ -142,3 +142,4 @@
 * calisto3_0260.ipynb VAN y TIR
 * calisto3_0270.ipynb Préstamos
 * calisto3_0280.ipynb Bonos, ETTI, forward, arbitraje
+* calisto3_0290.ipynb Valoraci
