@@ -1,3 +1,4 @@
+## calisto1
 * calisto1_0010.ipynb Presentación
 * calisto1_0015.ipynb Magic commands
 * calisto1_0020.ipynb Hola mundo
@@ -77,6 +78,8 @@
 * calisto1_0750.ipynb Invocación de excepciones
 * calisto1_0760.ipynb Manejo de excepciones: ejemplos
 * calisto1_0770.ipynb Funciones Lambda
+
+## calisto2
 * calisto2_0010.ipynb POO: Programación Orientada a Objetos
 * calisto2_0020.ipynb Construcción de una clase
 * calisto2_0030.ipynb El Constructor
@@ -114,6 +117,8 @@
 * calisto2_0350.ipynb Métodos especiales __str__ , __repr__
 * calisto2_0360.ipynb @classmethod @staticmethod
 * calisto2_0370.ipynb Función property()
+
+## calisto3
 * calisto3_0010.ipynb Creación de una Tabla con Pandas
 * calisto3_0020.ipynb Paquetes más usados
 * calisto3_0030.ipynb NumPy [1] Diferencia entre lista y dnarray
