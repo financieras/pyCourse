@@ -37,6 +37,7 @@
 * calisto1_0340.ipynb Operadores de identidad: is, is not
 * calisto1_0350.ipynb Bucle for
 * calisto1_0360.ipynb Bucles for anidados
+* calisto1_0365.ipynb Casos con Bucles For
 * calisto1_0370.ipynb Operadores de asignación
 * calisto1_0380.ipynb Bucle while [1]
 * calisto1_0390.ipynb Bucle while [2]
