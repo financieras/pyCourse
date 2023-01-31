@@ -67,6 +67,8 @@
 * calisto1_0630.ipynb Funciones: recursividad
 * calisto1_0631.ipynb Escribir un número al reves
 * calisto1_0635.ipynb Las Torres de Hanoi
+* calisto1_0636.ipynb Programación dinámica
+* calisto1_0637.ipynb Suma números para llegar al target
 * calisto1_0640.ipynb Funciones. Variables globales y variables locales [1]
 * calisto1_0650.ipynb Funciones. Variables globales y variables locales [2]
 * calisto1_0660.ipynb Funciones. Variables globales y variables locales [3]
