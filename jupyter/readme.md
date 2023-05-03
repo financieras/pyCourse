@@ -113,6 +113,7 @@
 * calisto2_0260.ipynb Herencia [4] Ejemplos
 * calisto2_0270.ipynb Herencia [5] Ejemplos
 * calisto2_0280.ipynb Herencia [6] Ejemplo de la función super()
+* calisto2_0285.ipynb Herencia: super
 * calisto2_0290.ipynb Ejemplo super() isinstance() issubclass()
 * calisto2_0300.ipynb Herencia [7] Ejemplo de encapsulamientos
 * calisto2_0310.ipynb Herencia [8] Ejemplo de herencia múltiple
