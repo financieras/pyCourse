@@ -109,6 +109,7 @@
 * calisto2_0220.ipynb Herencia Ejemplo
 * calisto2_0230.ipynb Herencia [2] Herencia múltiple
 * calisto2_0240.ipynb Herencia múltiple. Ejemplo
+* calisto2_0245.ipynb Herencia. Ejemplo
 * calisto2_0250.ipynb Herencia [3] super() isinstance()
 * calisto2_0260.ipynb Herencia [4] Ejemplos
 * calisto2_0270.ipynb Herencia [5] Ejemplos
