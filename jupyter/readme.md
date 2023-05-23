@@ -125,6 +125,7 @@
 * calisto2_0350.ipynb Métodos especiales __str__ , __repr__
 * calisto2_0360.ipynb @classmethod @staticmethod
 * calisto2_0370.ipynb Función property()
+* calisto2_0380.ipynb Double dispatch
 
 ## calisto3
 * calisto3_0010.ipynb Creación de una Tabla con Pandas
