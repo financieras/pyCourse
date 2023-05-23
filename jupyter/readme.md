@@ -90,6 +90,7 @@
 * calisto2_0030.ipynb El Constructor
 * calisto2_0040.ipynb Atributos de clase y de instancia
 * calisto2_0050.ipynb Ejemplo constructor, atributos, métodos
+* calisto2_0055.ipynb Ejemplo: Coffee Shop
 * calisto2_0060.ipynb Docstring
 * calisto2_0070.ipynb Modificando atributos
 * calisto2_0080.ipynb Encapsulamiento en la POO
