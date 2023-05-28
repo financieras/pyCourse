@@ -1,5 +1,5 @@
 import sys
-if len(sys.argv)==3:
+if len(sys.argv) == 3:
     nombre = sys.argv[1]
     numero = int(sys.argv[2])
     print(f'Hola {nombre} me alegro de que te guste el número {numero}.')
