@@ -100,6 +100,7 @@
 * calisto2_0120.ipynb El decorador @property
 * calisto2_0130.ipynb Getter y Setter en Python
 * calisto2_0140.ipynb Property Decorator
+* calisto2_0141.ipynb Ejemplo de decorador @property
 * calisto2_0150.ipynb Ejercicio con @property
 * calisto2_0160.ipynb Ejemplos sin herencia [1]
 * calisto2_0170.ipynb Ejemplos sin herencia [2]
