@@ -126,7 +126,8 @@
 * calisto2_0340.ipynb Funciones internas setattr, getattr, hasattr, delattr
 * calisto2_0350.ipynb Métodos especiales __str__ , __repr__
 * calisto2_0355.ipynb Métodos mágicos
-* calisto2_0360.ipynb @classmethod @staticmethod
+* calisto2_0360.ipynb Métodos de clase @classmethod
+* calisto2_0365.ipynb Métodos estáticos @staticmethod
 * calisto2_0370.ipynb Función property()
 * calisto2_0380.ipynb Double dispatch
 
