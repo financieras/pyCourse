@@ -20,7 +20,7 @@ Curso de Python con orientación financiera.
  * Encapsulamiento y ocultación
  * Decoradores
  * Herencia
- * Sobreescritura
+ * Sobrescritura de métodos
  * Polimorfismo
  * Librerías  
 3. Aplicaciones
