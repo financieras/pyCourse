@@ -41,6 +41,7 @@
 * calisto1_0370.ipynb Operadores de asignación
 * calisto1_0380.ipynb Bucle while [1]
 * calisto1_0390.ipynb Bucle while [2]
+* calisto1_0395.ipynb Bucle while [3]
 * calisto1_0400.ipynb Listas con estructuras [1]
 * calisto1_0410.ipynb Listas comprimidas (List comprehensions)
 * calisto1_0420.ipynb Listas con estructuras [2]
