@@ -19,6 +19,7 @@
 * calisto1_0170.ipynb Listas [1]
 * calisto1_0180.ipynb Listas [2] Slicing Lists
 * calisto1_0190.ipynb Listas [3] Copiar listas y matrices
+* calisto1_0195.ipynb Listas: copia superficial y copia profunda
 * calisto1_0200.ipynb Listas [4] Operaciones y funciones
 * calisto1_0210.ipynb Tuplas [1]
 * calisto1_0220.ipynb Tuplas [2]
