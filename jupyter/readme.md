@@ -85,7 +85,8 @@
 * calisto1_0750.ipynb Invocación de excepciones
 * calisto1_0760.ipynb Manejo de excepciones: ejemplos
 * calisto1_0770.ipynb Funciones Lambda
-* calisto1_0780.ipnb Anotaciones de tipo
+* calisto1_0780.ipynb Anotaciones de tipo
+* calisto1_0790.ipynb La función map
 
 ## calisto2
 * calisto2_0010.ipynb POO: Programación Orientada a Objetos
