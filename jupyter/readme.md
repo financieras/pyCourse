@@ -145,6 +145,7 @@
 * calisto3_0060.ipynb NumPy [4] Operar con matrices
 * calisto3_0061.ipynb Sumar los elementos de una matriz
 * calisto3_0070.ipynb NumPy [5] Números aleatorios
+* calisto3_0075.ipynb Ordenar un ndarray
 * calisto3_0080.ipynb NumPy [6] Ejes
 * calisto3_0090.ipynb NumPy [7] Funciones estadísticas
 * calisto3_0100.ipynb NumPy [8] Álgebra lineal
