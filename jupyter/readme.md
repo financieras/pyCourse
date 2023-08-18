@@ -74,6 +74,7 @@
 * calisto1_0640.ipynb Funciones. Variables globales y variables locales [1]
 * calisto1_0650.ipynb Funciones. Variables globales y variables locales [2]
 * calisto1_0660.ipynb Funciones. Variables globales y variables locales [3]
+* calisto1_0665.ipynb Scope o alcance de las variables
 * calisto1_0670.ipynb Funciones. Pasar por referencia o por valor [1]
 * calisto1_0680.ipynb Funciones. Adivina el número
 * calisto1_0690.ipynb Funciones. Adivina en cuatro
