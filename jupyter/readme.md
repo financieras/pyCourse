@@ -136,6 +136,7 @@
 * calisto2_0365.ipynb Métodos estáticos @staticmethod
 * calisto2_0370.ipynb Función property()
 * calisto2_0380.ipynb Double dispatch
+* calisto2_0390.ipynb match-case
 * calisto2_0400.ipynb Enum
 
 ## calisto3
