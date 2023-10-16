@@ -15,16 +15,16 @@
 * 0130_funciones_internas.ipynb
 * 0140_string_como_iterable.ipynb
 * 0150_string_metodos.ipynb
-* calisto1_0160.ipynb Reto: Hora a la que poner la alarma
-* calisto1_0170.ipynb Listas [1]
-* calisto1_0180.ipynb Listas [2] Slicing Lists
-* calisto1_0190.ipynb Listas [3] Copiar listas y matrices
-* calisto1_0195.ipynb Listas: copia superficial y copia profunda
-* calisto1_0200.ipynb Listas [4] Operaciones y funciones
-* calisto1_0210.ipynb Tuplas [1]
-* calisto1_0220.ipynb Tuplas [2]
-* calisto1_0230.ipynb Diccionarios [1]
-* calisto1_0240.ipynb Diccionarios [2]
+* 0160_hora_de_la_alarma.ipynb
+* 0170_listas1.ipynb
+* 0180_listas2_slicing.ipynb
+* 0190_listas3_copiar.ipynb
+* 0195_listas_copia_profunda.ipynb
+* 0200_listas4_funciones.ipynb
+* 0210_tuplas1.ipynb
+* 0220_tuplas2.ipynb
+* 0230_diccionarios1.ipynb
+* 0240_diccionarios2.ipynb
 * calisto1_0250.ipynb Diccionarios [3]
 * calisto1_0260.ipynb Conjuntos [1]
 * calisto1_0270.ipynb Conjuntos [2]
