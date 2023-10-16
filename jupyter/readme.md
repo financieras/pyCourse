@@ -25,17 +25,18 @@
 * 0220_tuplas2.ipynb
 * 0230_diccionarios1.ipynb
 * 0240_diccionarios2.ipynb
-* calisto1_0250.ipynb Diccionarios [3]
-* calisto1_0260.ipynb Conjuntos [1]
-* calisto1_0270.ipynb Conjuntos [2]
-* calisto1_0280.ipynb Operadores de comparación
-* calisto1_0290.ipynb Estructura condicional: if
-* calisto1_0300.ipynb Estructura condicional: if ... else
-* calisto1_0310.ipynb Estructura condicional: if ... elif
-* calisto1_0315.ipynb Operadores ternarios
-* calisto1_0320.ipynb Operadores lógicos: and, or, not
-* calisto1_0330.ipynb Tabla de verdad
-* calisto1_0340.ipynb Operadores de identidad: is, is not
+* 0250_diccionarios3.ipynb
+* 0260_conjuntos1.ipynb
+* 0270_conjuntos2.ipynb
+* 0280_operaciones_de_comparacion.ipynb
+* 0290_condicional_if.ipynb
+* 0300_condicional_if_else.ipynb
+* 0310_condicional_if_elif.ipynb
+* 0313_bubble _sort.ipynb
+* 0315_operadores_ternarios.ipynb
+* 0320_operadores_logicos.ipynb
+* 0330_tabla_de_verdad.ipynb
+* 0340_operadores_de_identidad.ipynb
 * calisto1_0350.ipynb Bucle for
 * calisto1_0360.ipynb Bucles for anidados
 * calisto1_0365.ipynb Casos con Bucles For
