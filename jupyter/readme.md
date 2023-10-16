@@ -1,20 +1,20 @@
 ## calisto1
-* calisto1_0010.ipynb Presentación
-* calisto1_0015.ipynb Magic commands
-* calisto1_0020.ipynb Hola mundo
-* calisto1_0030.ipynb Operaciones aritméticas
-* calisto1_0040.ipynb Cadenas (Strings)
-* calisto1_0050.ipynb Formateando Cadenas (Strings)
-* calisto1_0060.ipynb Maquetando texto
-* calisto1_0070.ipynb Nombres de variables
-* calisto1_0080.ipynb Escribiendo líneas de código
-* calisto1_0090.ipynb Variables
-* calisto1_0100.ipynb Strings
-* calisto1_0110.ipynb Input
-* calisto1_0120.ipynb Booleanos: True, False
-* calisto1_0130.ipynb Funciones internas
-* calisto1_0140.ipynb String como iterable
-* calisto1_0150.ipynb String: métodos
+* 0010_presentacion.ipynb
+* 0015_magic_commands.ipynb
+* 0020_hola_mundo.ipynb
+* 0030_operaciones_aritmeticas.ipynb
+* 0040_strings.ipynb
+* 0050_formateando_cadenas.ipynb
+* 0060_maquetando_texto.ipynb
+* 0070_nombres_de_variables.ipynb
+* 0080_imprimir.ipynb
+* 0090_variables.ipynb
+* 0100_comparar_strings.ipynb
+* 0110_input.ipynb
+* 0120_booleanos.ipynb
+* 0130_funciones_internas.ipynb
+* 0140_string_como_iterable.ipynb
+* 0150_string_metodos.ipynb
 * calisto1_0160.ipynb Reto: Hora a la que poner la alarma
 * calisto1_0170.ipynb Listas [1]
 * calisto1_0180.ipynb Listas [2] Slicing Lists
