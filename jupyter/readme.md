@@ -37,20 +37,20 @@
 * 0320_operadores_logicos.ipynb
 * 0330_tabla_de_verdad.ipynb
 * 0340_operadores_de_identidad.ipynb
-* calisto1_0350.ipynb Bucle for
-* calisto1_0360.ipynb Bucles for anidados
-* calisto1_0365.ipynb Casos con Bucles For
-* calisto1_0370.ipynb Operadores de asignación
-* calisto1_0380.ipynb Bucle while [1]
-* calisto1_0390.ipynb Bucle while [2]
-* calisto1_0395.ipynb Bucle while [3]
-* calisto1_0400.ipynb Listas con estructuras [1]
-* calisto1_0410.ipynb Listas comprimidas (List comprehensions)
-* calisto1_0420.ipynb Listas con estructuras [2]
-* calisto1_0430.ipynb Conjuntos con estructuras
-* calisto1_0440.ipynb Estructuras de datos: pilas y colas
-* calisto1_0450.ipynb Ejecución de Scripts
-* calisto1_0460.ipynb Generación de aleatorios [1]
+* 0350_bucle_for.ipynb
+* 0360_bucles_for_anidados.ipynb
+* 0365_casos_con_bucles_for.ipynb
+* 0370_operadores_de_asignacion.ipynb
+* 0380_bucle_while1.ipynb
+* 0390_bucle_while2.ipynb
+* 0395_bucle_while3.ipynb
+* 0400_listas_con_estructuras1.ipynb
+* 0410_list_comprehension.ipynb
+* 0420_listas_con_estructuras2.ipynb
+* 0430_conjuntos_con_estructuras.ipynb
+* 0440_pilas_y_colas.ipynb
+* 0450_scripts.ipynb
+* 0460_aleatorios1.ipynb
 * calisto1_0470.ipynb Generación de aleatorios [2]
 * calisto1_0480.ipynb Contar si
 * calisto1_0490.ipynb String: método join
