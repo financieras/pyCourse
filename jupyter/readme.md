@@ -56,12 +56,12 @@
 * 0490_join.ipynb
 * 0500_tuplas_con_estructuras.ipynb
 * 0510_diccionarios_con_estructuras.ipynb
-* calisto1_0520.ipynb Diccionarios por comprensión
-* calisto1_0530.ipynb Introducción a las funciones [1]
-* calisto1_0540.ipynb Introducción a las funciones [2]
-* calisto1_0550.ipynb Introducción a las funciones [3]
-* calisto1_0560.ipynb Funciones sencillas
-* calisto1_0570.ipynb Funciones con retorno múltiple
+* 0520_dictionary_comprehension.ipynb
+* 0530_funciones1.ipynb
+* 0540_funciones2.ipynb
+* 0550_funciones3.ipynb
+* 0560_funciones_sencillas.ipynb
+* 0570_retorno_multiple.ipynb
 * calisto1_0580.ipynb Funciones: número indeterminado de argumentos
 * calisto1_0590.ipynb Matrices
 * calisto1_0600.ipynb Importación de librerías
