@@ -62,13 +62,13 @@
 * 0550_funciones3.ipynb
 * 0560_funciones_sencillas.ipynb
 * 0570_retorno_multiple.ipynb
-* calisto1_0580.ipynb Funciones: número indeterminado de argumentos
-* calisto1_0590.ipynb Matrices
-* calisto1_0600.ipynb Importación de librerías
-* calisto1_0610.ipynb Funciones. Pasar un iterable como argumento
-* calisto1_0620.ipynb Funciones. Ejemplos
-* calisto1_0630.ipynb Funciones: recursividad
-* calisto1_0631.ipynb Escribir un número al reves
+* 0580_args_kwargs.ipynb
+* 0590_matrices.ipynb
+* 0600_librerias.ipynb
+* 0610_iterable_como_argumento.ipynb
+* 0620_funciones_ejemplos.ipynb
+* 0630_recursividad.ipynb
+* 0631_invertir_numero.ipynb
 * calisto1_0635.ipynb Las Torres de Hanoi
 * calisto1_0636.ipynb Programación dinámica
 * calisto1_0637.ipynb Suma números para llegar al target
