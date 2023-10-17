@@ -51,11 +51,11 @@
 * 0440_pilas_y_colas.ipynb
 * 0450_scripts.ipynb
 * 0460_aleatorios1.ipynb
-* calisto1_0470.ipynb Generación de aleatorios [2]
-* calisto1_0480.ipynb Contar si
-* calisto1_0490.ipynb String: método join
-* calisto1_0500.ipynb Tuplas con estructuras
-* calisto1_0510.ipynb Diccionarios con estructuras
+* 0470_aleatorios2.ipynb
+* 0480_contar_si.ipynb
+* 0490_join.ipynb
+* 0500_tuplas_con_estructuras.ipynb
+* 0510_diccionarios_con_estructuras.ipynb
 * calisto1_0520.ipynb Diccionarios por comprensión
 * calisto1_0530.ipynb Introducción a las funciones [1]
 * calisto1_0540.ipynb Introducción a las funciones [2]
