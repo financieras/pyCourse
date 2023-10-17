@@ -69,9 +69,9 @@
 * 0620_funciones_ejemplos.ipynb
 * 0630_recursividad.ipynb
 * 0631_invertir_numero.ipynb
-* calisto1_0635.ipynb Las Torres de Hanoi
-* calisto1_0636.ipynb Programación dinámica
-* calisto1_0637.ipynb Suma números para llegar al target
+* 0635_torres_de_hanoi.ipynb
+* 0636_programacion_dinamica.ipynb
+* 0637_sum_to_target.ipynb
 * calisto1_0640.ipynb Funciones. Variables globales y variables locales [1]
 * calisto1_0650.ipynb Funciones. Variables globales y variables locales [2]
 * calisto1_0660.ipynb Funciones. Variables globales y variables locales [3]
