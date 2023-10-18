@@ -72,24 +72,24 @@
 * 0635_torres_de_hanoi.ipynb
 * 0636_programacion_dinamica.ipynb
 * 0637_sum_to_target.ipynb
-* calisto1_0640.ipynb Funciones. Variables globales y variables locales [1]
-* calisto1_0650.ipynb Funciones. Variables globales y variables locales [2]
-* calisto1_0660.ipynb Funciones. Variables globales y variables locales [3]
-* calisto1_0665.ipynb Scope o alcance de las variables
-* calisto1_0670.ipynb Funciones. Pasar por referencia o por valor [1]
-* calisto1_0680.ipynb Funciones. Adivina el número
-* calisto1_0690.ipynb Funciones. Adivina en cuatro
-* calisto1_0700.ipynb Funciones. Elegir elementos de una lista aleatoriamente sin repetición
-* calisto1_0710.ipynb Funciones. Ejercicios propuestos
-* calisto1_0720.ipynb Funciones: Parámetros
-* calisto1_0730.ipynb Control de errores
-* calisto1_0740.ipynb Excepciones
-* calisto1_0750.ipynb Invocación de excepciones
-* calisto1_0760.ipynb Manejo de excepciones: ejemplos
-* calisto1_0770.ipynb Funciones Lambda
-* calisto1_0780.ipynb Anotaciones de tipo
-* calisto1_0790.ipynb La función map
-* calisto1_0800.ipynb La función zip
+* 0640_variables_locales_globales.ipynb
+* 0650_variables_locales_globales2.ipynb
+* 0660_variables_locales_globales3.ipynb
+* 0665_scope.ipynb
+* 0670_by_reference_by_value.ipynb
+* 0680_adivina_el_numero.ipynb
+* 0690_adivina_en_cuatro.ipynb
+* 0700_sin_repeticion.ipynb
+* 0710_ejercicios.ipynb
+* 0720_parametros.ipynb
+* 0730_control_de_errores.ipynb
+* 0740_excepciones.ipynb
+* 0750_invocacion_de_excepciones.ipynb
+* 0760_manejo_de_excepciones.ipynb
+* 0770_funciones_lambda.ipynb
+* 0780_anotaciones_de_tipo.ipynb
+* 0790_funcion_map.ipynb
+* 0800_funcion_zip.ipynb
 
 ## calisto2
 * calisto2_0010.ipynb POO: Programación Orientada a Objetos
