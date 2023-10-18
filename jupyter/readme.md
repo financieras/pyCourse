@@ -92,8 +92,8 @@
 * 0800_funcion_zip.ipynb
 
 ## calisto2
-* calisto2_0010.ipynb POO: Programación Orientada a Objetos
-* calisto2_0020.ipynb Construcción de una clase
+* 0010_poo.ipynb
+* 0020_clases.ipynb
 * calisto2_0030.ipynb El Constructor
 * calisto2_0040.ipynb Atributos de clase y de instancia
 * calisto2_0045.ipynb Ejemplo: atributos de clase y de instancia
