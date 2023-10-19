@@ -94,51 +94,51 @@
 ## calisto2
 * 0010_poo.ipynb
 * 0020_clases.ipynb
-* calisto2_0030.ipynb El Constructor
-* calisto2_0040.ipynb Atributos de clase y de instancia
-* calisto2_0045.ipynb Ejemplo: atributos de clase y de instancia
-* calisto2_0050.ipynb Ejemplo constructor, atributos, métodos
-* calisto2_0055.ipynb Ejemplo: Coffee Shop
-* calisto2_0060.ipynb Docstring
-* calisto2_0070.ipynb Modificando atributos
-* calisto2_0080.ipynb Encapsulamiento en la POO
-* calisto2_0090.ipynb Encapsulación de propiedades
-* calisto2_0100.ipynb Encapsulación de métodos
-* calisto2_0110.ipynb Ocultación de atributos y métodos
-* calisto2_0120.ipynb El decorador @property
-* calisto2_0130.ipynb Getter y Setter en Python
-* calisto2_0140.ipynb Property Decorator
-* calisto2_0141.ipynb Ejemplo de decorador @property
-* calisto2_0150.ipynb Ejercicio con @property
-* calisto2_0160.ipynb Ejemplos sin herencia [1]
-* calisto2_0170.ipynb Ejemplos sin herencia [2]
-* calisto2_0180.ipynb Ejemplos sin herencia [3]
-* calisto2_0190.ipynb Ejemplos sin herencia [4]
-* calisto2_0200.ipynb Ejemplos sin herencia [5]
-* calisto2_0210.ipynb Herencia [1]
-* calisto2_0220.ipynb Herencia Ejemplo
-* calisto2_0230.ipynb Herencia [2] Herencia múltiple
-* calisto2_0240.ipynb Herencia múltiple. Ejemplo
-* calisto2_0245.ipynb Herencia. Ejemplo
-* calisto2_0250.ipynb Herencia [3] super() isinstance()
-* calisto2_0260.ipynb Herencia [4] Ejemplos
-* calisto2_0270.ipynb Herencia [5] Ejemplos
-* calisto2_0280.ipynb Herencia [6] Ejemplo de la función super()
-* calisto2_0285.ipynb Herencia: super
-* calisto2_0290.ipynb Ejemplo super() isinstance() issubclass()
-* calisto2_0300.ipynb Herencia [7] Ejemplo de encapsulamientos
-* calisto2_0310.ipynb Herencia [8] Ejemplo de herencia múltiple
-* calisto2_0320.ipynb Herencia [9] Sobrescritura de métodos
-* calisto2_0330.ipynb Polimorfismo
-* calisto2_0340.ipynb Funciones internas setattr, getattr, hasattr, delattr
-* calisto2_0350.ipynb Métodos especiales __str__ , __repr__
-* calisto2_0355.ipynb Métodos mágicos
-* calisto2_0360.ipynb Métodos de clase @classmethod
-* calisto2_0365.ipynb Métodos estáticos @staticmethod
-* calisto2_0370.ipynb Función property()
-* calisto2_0380.ipynb Double dispatch
-* calisto2_0390.ipynb match-case
-* calisto2_0400.ipynb Enum
+* 0030_constructor.ipynb
+* 0040_atributos.ipynb
+* 0045_atributos_ejemplo.ipynb
+* 0050_metodos.ipynb
+* 0055_ejemplo_cafe.ipynb
+* 0060_docstring.ipynb
+* 0070_modificando_atributos.ipynb
+* 0080_encapsulamiento.ipynb
+* 0090_encapsulacion_de_propiedades.ipynb
+* 0100_encapsulacion_de_metodos.ipynb
+* 0110_ocultacion.ipynb
+* 0120_decorador_property.ipynb
+* 0130_getter_setter.ipynb
+* 0140_property_decorator.ipynb
+* 0141_ejemplo_property.ipynb
+* 0150_ejercicio_property.ipynb
+* 0160_ejemplos_sin_herencia1.ipynb
+* 0170_ejemplos_sin_herencia2.ipynb
+* 0180_ejemplos_sin_herencia3.ipynb
+* 0190_ejemplos_sin_herencia4.ipynb
+* 0200_ejemplos_sin_herencia5.ipynb
+* 0210_herencia.ipynb
+* 0220_herencia_ejemplo1.ipynb
+* 0230_herencia_multiple.ipynb
+* 0240_herencia_multiple_ejemplo.ipynb
+* 0245_herencia_ejemplo2.ipynb
+* 0250_herencia_super_isinstance.ipynb
+* 0260_herencia_ejemplo3.ipynb
+* 0270_herencia_ejemplo4.ipynb
+* 0280_ejemplo_super.ipynb
+* 0285_herencia_super.ipynb
+* 0290_super_isinstance_issubclass.ipynb
+* 0300_encapsulamiento.ipynb
+* 0310_herencia_multiple_ejemplo.ipynb
+* 0320_sobrescritura_de_metodos.ipynb
+* 0330_polimorfismo.ipynb
+* 0340_setattr_getattr_hasattr_delattr.ipynb
+* 0350_str_repr.ipynb
+* 0355_metodos_magicos.ipynb
+* 0360_classmethod.ipynb
+* 0365_staticmethod.ipynb
+* 0370_property.ipynb
+* 0380_double_dispatch.ipynb
+* 0390_match_case.ipynb
+* 0400_enum.ipynb
 
 ## calisto3
 * calisto3_0010.ipynb Creación de una Tabla con Pandas
